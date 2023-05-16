@@ -1,7 +1,9 @@
+<div align="center"> 
+
 # Dynamic Weight Assignment and Context-Aware Active Domain Adaptation for Semantic Segmentation
 by [Licong Guan](https://licongguan.github.io/), Xue Yuan
 
-
+</div>
 
 
 ## Contact
