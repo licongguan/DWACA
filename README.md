@@ -43,7 +43,7 @@ git clone https://github.com/licongguan/DWACA.git && cd DWACA
 conda create -n DWACA python=3.6.9
 conda activate DWACA
 pip install -r requirements.txt
-pip install torch==1.8.1+cu102 torchvision==0.9.1+cu102 -f https://download.pytorch.org/whl/torch_stable.html
+pip install torch==1.8.1+cu111 torchvision==0.9.1+cu111 -f https://download.pytorch.org/whl/torch_stable.html
 ```
 
 ### Data Preparation
